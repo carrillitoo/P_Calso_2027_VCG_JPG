@@ -112,7 +112,7 @@ La captura final permite comprobar que se está analizando el mismo proyecto uti
 La versión final del proyecto Eclipse se encuentra en:
 
 ```text
-P1/proyecto/P1_INICIALES/
+P1/proyecto/P1_VCG_JPG/
 ```
 
 El proyecto incluido en esta carpeta contiene las modificaciones correspondientes a las soluciones documentadas anteriormente y coincide con la versión sobre la que se ha realizado la captura final.
